@@ -1,23 +1,5 @@
 
 <head>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            text-align: center;
-            margin: 20px;
-        }
-
-        header {
-            background-color: #0366d6;
-            padding: 20px;
-            color: white;
-        }
-
-        h1 {
-            font-size: 28px;
-        }
-    </style>
 </head>
 <body>
     <header>
