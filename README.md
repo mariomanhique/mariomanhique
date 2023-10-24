@@ -12,16 +12,14 @@
           seamlessly integrating third-party APIs, with a particular focus on leveraging Retrofit for optimal
           performance.
         </p>
-
         <p> 
-            - 🌱 I’m currently learning Android testing and CI/CD
-            - 👯 I’m looking to collaborate on android applications
-            - 🤔 I’m looking for help with ...
-            - 💬 Ask me about anything, if I its something I am not familiar wth, I will learn and then get back to you😄
-            - 💬 Ask me about anything, if I its something I am not familiar with, I will learn and then get back to you😄
-            - 📫 How to reach me: <a href="www.linkedin.com/in/mariomanhique" target="_blank"> www.linkedin.com/in/mariomanhique</a>
-            - 😄 Pronouns: He/Him
-            - ⚡ Fun fact: I know some basic germany
+        - 🌱 I’m currently learning Android testing and CI/CD
+        - 👯 I’m looking to collaborate on android applications
+        - 🤔 I’m looking for help with ...
+        - 💬 Ask me about anything, if I its something I am not familiar with, I will learn and then get back to you😄
+        - 📫 How to reach me: <a href="www.linkedin.com/in/mariomanhique" target="_blank"> www.linkedin.com/in/mariomanhique</a>
+        - 😄 Pronouns: He/Him
+        - ⚡ Fun fact: I know some basic germany
         </p>
     </header>
 </body>
