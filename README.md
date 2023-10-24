@@ -1,4 +1,5 @@
-<h1>Hi there 👋</h1>
+<h1>Hi there👋</h1>
+<hr>
 
 I am Mario Ernesto Manhique, self-taught Android Developer with 2+ years of hands-on experience in crafting Android
 mobile applications using Kotlin. My expertise includes a robust grasp of modern
