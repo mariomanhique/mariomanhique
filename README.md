@@ -12,7 +12,6 @@
           seamlessly integrating third-party APIs, with a particular focus on leveraging Retrofit for optimal
           performance.
         </p>
-
         - 🌱 I’m currently learning Android testing and CI/CD
         - 👯 I’m looking to collaborate on android applications
         - 🤔 I’m looking for help with ...
@@ -20,7 +19,6 @@
         - 📫 How to reach me: <a href="www.linkedin.com/in/mariomanhique" target="_blank"> www.linkedin.com/in/mariomanhique</a>
         - 😄 Pronouns: He/Him
         - ⚡ Fun fact: I know some basic germany
-   
     </header>
 </body>
 
