@@ -14,5 +14,5 @@
 - 💬 Ask me about anything, if I its something I am not familiar with, I will learn and then get back to you😄
 - 📫 How to reach me: <a href="www.linkedin.com/in/mariomanhique" target="_blank"> www.linkedin.com/in/mariomanhique</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know some basic german
+- ⚡ Fun fact: I know basic german
 
