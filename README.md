@@ -5,8 +5,7 @@
  mobile applications using Kotlin. My expertise includes a robust grasp of modern
  techniques such as Jetpack Compose, as well as proficiency in implementing design patterns like
  MVVM and MVP. I am well-versed in developing with a Multi-Modular Architecture, and I excel in
- seamlessly integrating third-party APIs, with a particular focus on leveraging Retrofit for optimal
- performance.
+ seamlessly integrating third-party APIs, with a particular focus on Retrofit!
 
 - 🌱 I’m currently learning Android testing and CI/CD
 - 👯 I’m looking to collaborate on android applications, if it's compose great, if not, I am willing to migrate the xml code to compose!
